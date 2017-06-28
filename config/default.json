@@ -1,0 +1,5 @@
+{
+    "debug":true,
+    "state":"dev",
+    "api": "localhost:4000"
+}
